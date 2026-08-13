@@ -40,6 +40,6 @@ Click the **Delete** button next to a task to remove it.
 
 ### Todo List App
 
-![Todo List App](task1/screenshots/todo-app.png)
+![Todo List App](screenshots/todo-app.png)
 
 This screenshot shows the Todo List application with the options to add, edit, and delete tasks.
