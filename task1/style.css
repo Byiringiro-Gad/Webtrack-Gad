@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+#taskInput{
+    padding: 10px;
+    flex: 1;
+}
+
+#addButton {
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #eeeeee;
+    list-style-type: none;
+
+}
+
+li button {
+    margin-left: 10px;
+    cursor: pointer;
+}
